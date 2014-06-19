@@ -1,0 +1,22 @@
+{
+  "name": "graphfun",
+  "version": "0.0.0",
+  "description": "Simple Graph Operation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dcorns/graphfun"
+  },
+  "author": "Dale Corns",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dcorns/graphfun/issues"
+  },
+  "homepage": "https://github.com/dcorns/graphfun",
+  "devDependencies": {
+    "express": "^4.4.3"
+  }
+}
